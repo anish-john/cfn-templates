@@ -1,1 +1,1 @@
-# cfn-templates-readme.md
+# cfn-templates
